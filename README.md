@@ -10,7 +10,7 @@
 [![An image of @chaitanyamedidar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitanyamedidar)](https://holopin.io/@chaitanyamedidar)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamedidar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
