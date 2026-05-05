@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/omarchy-logo.svg" width="360" alt="Omarchy terminal logo" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
 </p>
 
@@ -127,10 +131,16 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 ## `pacman -Qi top-starred-contribs`
 
 <!-- TOP-STARRED-CONTRIBS:START -->
-| Repository | Stars | Language | Contribution |
-|---|---:|---|---|
-| _Auto-updates after the GitHub Action runs_ | - | - | Merged public PRs |
+<p align="center">
+  <img src="https://img.shields.io/badge/contributions-auto--updates_after_workflow_runs-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="Contribution badges auto-update after workflow runs" />
+</p>
 <!-- TOP-STARRED-CONTRIBS:END -->
+
+To make a badge from any repo link:
+
+```bash
+node scripts/make-repo-badges.mjs https://github.com/owner/repo
+```
 
 ## `ls ~/open-source`
 
@@ -173,6 +183,12 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 ## `./press-the-buttons.sh`
 
 <p align="center">
+  <a href="./press-the-buttons.sh">
+    <img src="https://img.shields.io/badge/RUN_SCRIPT-020617?style=for-the-badge&logo=gnubash&logoColor=A3E635" alt="Run press-the-buttons.sh" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=A3E635&background=02061700&center=true&vCenter=true&width=780&lines=%5B%20A%20%5D+Ship+demo;%5B%20B%20%5D+Train+model;%5B%20START%20%5D+Open+source;%5B%20SELECT%20%5D+Refactor" alt="Retro command buttons" />
 </p>
 
@@ -200,4 +216,12 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <p align="center">
   <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamedidar&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:1793D1" alt="Footer wave" />
 </p>
