@@ -47,9 +47,6 @@ Cloud: GCP, Azure, Firebase
 Package manager: curiosity
 ```
 
-    </td>
-    <td width="48%" valign="top">
-
 ### `/home/chaitanya/whoami`
 
 Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, JavaScript, Design, ML systems, and product-ready AI demos**.
@@ -129,12 +126,30 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
 
-To make a badge from any repo link:
-
-```bash
-node scripts/make-repo-badges.mjs https://github.com/owner/repo
-```
-
+<p align="center">
+  <a href="https://github.com/microsoft/vscode">
+    <img src="https://img.shields.io/badge/microsoft%2Fvscode-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode" />
+  </a>
+  <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
+  <img src="https://img.shields.io/github/languages/top/microsoft%2Fvscode?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="microsoft/vscode top language" />
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
+</p>
+<p align="center">
+  <a href="https://github.com/ankidroid/anki-android">
+    <img src="https://img.shields.io/badge/ankidroid%2Fanki--android-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android" />
+  </a>
+  <img src="https://img.shields.io/github/stars/ankidroid%2Fanki-android?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="ankidroid/anki-android stars" />
+  <img src="https://img.shields.io/github/languages/top/ankidroid%2Fanki-android?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="ankidroid/anki-android top language" />
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android contribution" />
+</p>
+<p align="center">
+  <a href="https://github.com/hiero-ledger/hiero-sdk-cpp">
+    <img src="https://img.shields.io/badge/hiero--ledger%2Fhiero--sdk--cpp-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp" />
+  </a>
+  <img src="https://img.shields.io/github/stars/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp stars" />
+  <img src="https://img.shields.io/github/languages/top/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp top language" />
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
+</p>
 ## `ls ~/open-source`
 
 <p align="center">
