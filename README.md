@@ -1,21 +1,214 @@
-#  About Me:
-🔭I’m currently working on Adaptive Selective Training of vLLM<br>
+<p align="center">
+  <img src="assets/github-cosmic.jpg" width="100%" alt="GitHub cosmic banner" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanyamedidar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-medidar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyapro19@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
+</p>
 
-# 💻 Tech Stack:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=1793D1&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Arch+energy;vLLM+%2B+PyTorch+%2B+FastAPI;Flutter+%2B+React+%2B+Cloud;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
+  </a>
+</p>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamedidar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <a href="https://instagram.com/chaitanyamedidar">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=1793D1" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/chaitanya-medidar">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=1793D1" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chaitanyapro19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=1793D1" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=chaitanyamedidar&label=profile%20views&color=1793d1&style=for-the-badge" alt="Profile views" />
+</p>
 
+<br />
 
+<table>
+  <tr>
+    <td width="52%" valign="top">
 
----
-[![](https://visitcount.itsvg.in/api?id=chaitanyamedidar&icon=9&color=9)](https://visitcount.itsvg.in)
+```bash
+                   -`                    chaitanya@github
+                  .o+`                   ----------------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Role: Full-stack + ML developer
+               `+oooooo:                 Focus: Adaptive Selective Training
+               -+oooooo+:                Kernel: vLLM, PyTorch, FastAPI
+             `/:-:++oooo+:               Shell: Flutter, React, Next.js
+            `/++++/+++++++:              Cloud: GCP, Azure, Firebase
+           `/++++++++++++++:             Package manager: curiosity
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+    </td>
+    <td width="48%" valign="top">
+
+### `/home/chaitanya/whoami`
+
+Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, JavaScript, Design, ML systems, and product-ready AI demos**.
+
+- 🔭 Currently working on **Adaptive Selective Training of vLLM**
+- 🧠 Exploring **fine-tuning, evaluation, and applied AI systems**
+- 🛠️ Building with **Flutter, FastAPI, React, Next.js, PyTorch**
+- 🐧 Inspired by **Arch Linux**: clean, sharp, configurable
+- ⚡ I like turning rough ideas into things people can actually try
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
+## `pacman -Syu skillset`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,nodejs,express,fastapi,react,nextjs,vite,tailwind,bootstrap,flutter,firebase,supabase,mongodb,mysql,sqlite,gcp,azure,vercel,netlify,kubernetes,git,github,npm,notion,ps" alt="Tech stack icons" />
+</p>
+
+<details open>
+  <summary><b>Core Stack</b></summary>
+  <br />
+
+  ![PyTorch](https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=1793D1)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=1793D1)
+  ![Pandas](https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=1793D1)
+  ![NumPy](https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=1793D1)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=1793D1)
+  ![Flutter](https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=1793D1)
+  ![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=1793D1)
+  ![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=1793D1)
+</details>
+
+<details>
+  <summary><b>Cloud, Data, and Tools</b></summary>
+  <br />
+
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=googlecloud&logoColor=1793D1)
+  ![Azure](https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoftazure&logoColor=1793D1)
+  ![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=1793D1)
+  ![Supabase](https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=1793D1)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=1793D1)
+  ![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=1793D1)
+  ![SQLite](https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=1793D1)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=1793D1)
+  ![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=1793D1)
+  ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
+</details>
+
+## `systemctl status github.service`
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=chaitanyamedidar&show_icons=true&theme=github_dark&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=E5E7EB&bg_color=020617" alt="GitHub stats" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=chaitanyamedidar&theme=github-dark-blue&hide_border=true&background=020617&ring=1793D1&fire=38BDF8&currStreakLabel=1793D1" alt="GitHub streak" />
+    </td>
+    <td width="42%" valign="top">
+      <img src="assets/skull-flame.gif" width="100%" alt="Animated flame skull" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamedidar&layout=compact&theme=github_dark&hide_border=true&title_color=1793D1&text_color=E5E7EB&bg_color=020617" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+## `pacman -Qi top-starred-contribs`
+
+<!-- TOP-STARRED-CONTRIBS:START -->
+| Repository | Stars | Language | Contribution |
+|---|---:|---|---|
+| _Auto-updates after the GitHub Action runs_ | - | - | Merged public PRs |
+<!-- TOP-STARRED-CONTRIBS:END -->
+
+## `ls ~/open-source`
+
+<p align="center">
+  <img src="assets/pixel-windmill.gif" width="100%" alt="Pixel windmill landscape" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>ML / Research Systems</h3>
+      <p>Experiments around adaptive training, evaluation, and practical model workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=1793D1" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=1793D1" alt="Python" />
+        <img src="https://img.shields.io/badge/vLLM-020617?style=flat-square&logo=python&logoColor=1793D1" alt="vLLM" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Full-stack Products</h3>
+      <p>FastAPI backends, Flutter apps, React dashboards, and cloud-ready demos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=1793D1" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flutter-020617?style=flat-square&logo=flutter&logoColor=1793D1" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=1793D1" alt="React" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/chaitanyamedidar?tab=repositories">
+    <img src="https://img.shields.io/badge/ALL_REPOS-1793D1?style=for-the-badge&logo=github&logoColor=020617" alt="All repositories" />
+  </a>
+  <a href="https://github.com/chaitanyamedidar?tab=stars">
+    <img src="https://img.shields.io/badge/STARS-020617?style=for-the-badge&logo=github&logoColor=1793D1" alt="Starred repositories" />
+  </a>
+</p>
+
+## `./press-the-buttons.sh`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=A3E635&background=02061700&center=true&vCenter=true&width=780&lines=%5B%20A%20%5D+Ship+demo;%5B%20B%20%5D+Train+model;%5B%20START%20%5D+Open+source;%5B%20SELECT%20%5D+Refactor" alt="Retro command buttons" />
+</p>
+
+```txt
+┌──────────────────────────────────────────────┐
+│  CHAITANYA.EXE                               │
+│  HP  ████████████████████  100 / 100         │
+│  MP  ███████████████░░░░░   76 / 100         │
+│                                              │
+│  MOVESET                                     │
+│  > build_full_stack_app()                    │
+│  > fine_tune_model()                         │
+│  > design_clean_ui()                         │
+│  > explain_with_examples()                   │
+└──────────────────────────────────────────────┘
+```
+
+## `fortune`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+## `mpv ~/lofi-dev-session.gif`
+
+<p align="center">
+  <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamedidar&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:1793D1" alt="Footer wave" />
+</p>
