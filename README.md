@@ -3,12 +3,16 @@
 </p>
 
 <p align="center">
+  <img src="assets/omarchy-logo.svg" width="72%" alt="Omarchy logo" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=1793D1&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Arch+energy;vLLM+%2B+PyTorch+%2B+FastAPI;Flutter+%2B+React+%2B+Cloud;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A6D96A&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Omarchy+energy;vLLM+%2B+PyTorch+%2B+FastAPI;Flutter+%2B+React+%2B+Cloud;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,25 +36,15 @@
     <td width="52%" valign="top">
 
 ```bash
-                   -`                    chaitanya@github
-                  .o+`                   ----------------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Role: Full-stack + ML developer
-               `+oooooo:                 Focus: Adaptive Selective Training
-               -+oooooo+:                Kernel: vLLM, PyTorch, FastAPI
-             `/:-:++oooo+:               Shell: Flutter, React, Next.js
-            `/++++/+++++++:              Cloud: GCP, Azure, Firebase
-           `/++++++++++++++:             Package manager: curiosity
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+ ██████╗ ███╗   ███╗ █████╗ ██████╗   chaitanya@github
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗  ----------------
+██║   ██║██╔████╔██║███████║██████╔╝  OS: Omarchy-inspired setup
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗  Role: Full-stack + ML developer
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║  Focus: Adaptive Selective Training
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  Kernel: vLLM, PyTorch, FastAPI
+                                         Shell: Flutter, React, Next.js
+OMARCHY                                  Cloud: GCP, Azure, Firebase
+minimal desktop. maximal shipping.       Package manager: curiosity
 ```
 
     </td>
@@ -63,7 +57,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 - 🔭 Currently working on **Adaptive Selective Training of vLLM**
 - 🧠 Exploring **fine-tuning, evaluation, and applied AI systems**
 - 🛠️ Building with **Flutter, FastAPI, React, Next.js, PyTorch**
-- 🐧 Inspired by **Arch Linux**: clean, sharp, configurable
+- 🟩 Inspired by **Omarchy**: clean, sharp, keyboard-first energy
 - ⚡ I like turning rough ideas into things people can actually try
 
 <p align="center">
