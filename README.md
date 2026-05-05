@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="assets/github-cosmic.jpg" width="100%" alt="GitHub cosmic banner" />
-</p>
 
 <p align="center">
-  <img src="assets/omarchy-logo.svg" width="360" alt="Omarchy terminal logo" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%20and%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A6D96A&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Omarchy+energy;vLLM+%2B+PyTorch+%2B+FastAPI;Flutter+%2B+React+%2B+Cloud;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A6D96A&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Omarchy+energy;vLLM+,+PyTorch+,+FastAPI;Flutter+,+React+,+Cloud;CI/CD+Piplines+,+Testing;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -218,10 +211,3 @@ node scripts/make-repo-badges.mjs https://github.com/owner/repo
   <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamedidar&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:1793D1" alt="Footer wave" />
-</p>
