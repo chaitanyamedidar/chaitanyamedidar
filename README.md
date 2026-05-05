@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/github-cosmic.jpg" width="100%" alt="GitHub cosmic banner" />
+</p>
+
+<p align="center">
+  <img src="assets/omarchy-logo.svg" width="360" alt="Omarchy terminal logo" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
@@ -29,18 +36,26 @@
     <td width="52%" valign="top">
 
 ```bash
- ██████╗ ███╗   ███╗ █████╗ ██████╗   chaitanya@github
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗  ----------------
-██║   ██║██╔████╔██║███████║██████╔╝  OS: Omarchy-inspired setup
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗  Role: Full-stack + ML developer
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║  Focus: Adaptive Selective Training
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  Kernel: vLLM, PyTorch, FastAPI
-                                         Shell: Flutter, React, Next.js
-OMARCHY                                  Cloud: GCP, Azure, Firebase
-minimal desktop. maximal shipping.       Package manager: curiosity
+ ██████╗ ███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗██╗   ██╗
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║  ██║╚██╗ ██╔╝
+██║   ██║██╔████╔██║███████║██████╔╝██║     ███████║ ╚████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██║     ██╔══██║  ╚██╔╝
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗██║  ██║   ██║
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝
+
+chaitanya@github
+----------------
+OS: Omarchy-inspired setup
+Role: Full-stack + ML developer
+Focus: Adaptive Selective Training
+Kernel: vLLM, PyTorch, FastAPI
+Shell: Flutter, React, Next.js
+Cloud: GCP, Azure, Firebase
+Package manager: curiosity
 ```
 
-
+    </td>
+    <td width="48%" valign="top">
 
 ### `/home/chaitanya/whoami`
 
