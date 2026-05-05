@@ -2,9 +2,6 @@
   <img src="assets/github-cosmic.jpg" width="100%" alt="GitHub cosmic banner" />
 </p>
 
-<p align="center">
-  <img src="assets/omarchy-logo.svg" width="72%" alt="Omarchy logo" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%2B%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
