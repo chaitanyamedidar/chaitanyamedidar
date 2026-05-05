@@ -1,0 +1,15 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Omarchy mark</title>
+  <desc id="desc">Square Omarchy geometric mark in green on a dark background.</desc>
+  <rect width="400" height="400" fill="#1B1C27"/>
+  <g stroke="#A8D66D" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M116 116H286V155" />
+    <path d="M116 116V283H155" />
+    <path d="M284 284H114V245" />
+    <path d="M284 284V117H245" />
+    <path d="M149 149H251" />
+    <path d="M149 149V251" />
+    <path d="M251 251H149" />
+    <path d="M251 149V251" />
+  </g>
+</svg>
