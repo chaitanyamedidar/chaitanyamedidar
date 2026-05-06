@@ -120,31 +120,25 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" width="28" height="28" alt="microsoft/vscode icon" />
   <a href="https://github.com/microsoft/vscode">
-    <img src="https://img.shields.io/badge/microsoft%2Fvscode-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode" />
+    <img src="https://img.shields.io/badge/microsoft%2Fvscode-repo-020617?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fvscode%2Fmain%2Fresources%2Fwin32%2Fcode_150x150.png&labelColor=020617" alt="microsoft/vscode" />
   </a>
   <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
-  <img src="https://img.shields.io/github/languages/top/microsoft%2Fvscode?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="microsoft/vscode top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/3320903?v=4" width="28" height="28" alt="ankidroid/anki-android icon" />
   <a href="https://github.com/ankidroid/anki-android">
-    <img src="https://img.shields.io/badge/ankidroid%2Fanki--android-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android" />
+    <img src="https://img.shields.io/badge/ankidroid%2Fanki--android-repo-020617?style=for-the-badge&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F3320903%3Fv%3D4&labelColor=020617" alt="ankidroid/anki-android" />
   </a>
   <img src="https://img.shields.io/github/stars/ankidroid%2Fanki-android?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="ankidroid/anki-android stars" />
-  <img src="https://img.shields.io/github/languages/top/ankidroid%2Fanki-android?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="ankidroid/anki-android top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android contribution" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/179146999?v=4" width="28" height="28" alt="hiero-ledger/hiero-sdk-cpp icon" />
   <a href="https://github.com/hiero-ledger/hiero-sdk-cpp">
-    <img src="https://img.shields.io/badge/hiero--ledger%2Fhiero--sdk--cpp-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp" />
+    <img src="https://img.shields.io/badge/hiero--ledger%2Fhiero--sdk--cpp-repo-020617?style=for-the-badge&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179146999%3Fv%3D4&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp" />
   </a>
-  <img src="https://img.shields.io/github/languages/top/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
