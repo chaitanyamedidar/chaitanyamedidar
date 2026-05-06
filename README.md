@@ -37,8 +37,7 @@
 
 chaitanya@github
 ----------------
-OS: Omarchy-inspired setup
-Role: Full-stack + ML developer
+OS: Omarchy Arch Linux
 Focus: Adaptive Selective Training
 Kernel: vLLM, PyTorch, FastAPI
 Shell: Flutter, React, Next.js
@@ -98,23 +97,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=1793D1)
   ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
 </details>
-
-## `systemctl status github.service`
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=chaitanyamedidar&show_icons=true&theme=github_dark&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=E5E7EB&bg_color=020617" alt="GitHub stats" />
-      <br />
-      <img src="https://streak-stats.demolab.com?user=chaitanyamedidar&theme=github-dark-blue&hide_border=true&background=020617&ring=1793D1&fire=38BDF8&currStreakLabel=1793D1" alt="GitHub streak" />
-    </td>
-    <td width="42%" valign="top">
-      <img src="assets/skull-flame.gif" width="100%" alt="Animated flame skull" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamedidar&layout=compact&theme=github_dark&hide_border=true&title_color=1793D1&text_color=E5E7EB&bg_color=020617" alt="Top languages" />
-    </td>
-  </tr>
-</table>
 
 ## `pacman -Qi top-starred-contribs`
 
