@@ -49,19 +49,18 @@ Package manager: curiosity
 
 ### `/home/chaitanya/whoami`
 
-Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, JavaScript, Design, ML systems, and product-ready AI demos**.
+Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, CI/CD Pipelines, Automations, Python, JavaScript, Design, ML systems, and Product-Ready AI demos**.
 
-- 🔭 Currently working on **Adaptive Selective Training of vLLM**
-- 🧠 Exploring **fine-tuning, evaluation, and applied AI systems**
-- 🛠️ Building with **Flutter, FastAPI, React, Next.js, PyTorch**
-- 🟩 Inspired by **Omarchy**: clean, sharp, keyboard-first energy
-- ⚡ I like turning rough ideas into things people can actually try
+- Currently working on **Adaptive Selective Training of vLLM**
+- Exploring **fine-tuning, evaluation, and applied AI systems**
+- Inspired by **Omarchy**: clean, sharp, keyboard-first energy
+- I like turning rough ideas into things people can actually try
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
 </p>
 
-    </td>
+
   </tr>
 </table>
 
@@ -150,6 +149,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <img src="https://img.shields.io/github/languages/top/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
 </p>
+
 ## `ls ~/open-source`
 
 <p align="center">
@@ -188,31 +188,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   </a>
 </p>
 
-## `./press-the-buttons.sh`
 
-<p align="center">
-  <a href="./press-the-buttons.sh">
-    <img src="https://img.shields.io/badge/RUN_SCRIPT-020617?style=for-the-badge&logo=gnubash&logoColor=A3E635" alt="Run press-the-buttons.sh" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=800&color=A3E635&background=02061700&center=true&vCenter=true&width=780&lines=%5B%20A%20%5D+Ship+demo;%5B%20B%20%5D+Train+model;%5B%20START%20%5D+Open+source;%5B%20SELECT%20%5D+Refactor" alt="Retro command buttons" />
-</p>
-
-```txt
-┌──────────────────────────────────────────────┐
-│  CHAITANYA.EXE                               │
-│  HP  ████████████████████  100 / 100         │
-│  MP  ███████████████░░░░░   76 / 100         │
-│                                              │
-│  MOVESET                                     │
-│  > build_full_stack_app()                    │
-│  > fine_tune_model()                         │
-│  > design_clean_ui()                         │
-│  > explain_with_examples()                   │
-└──────────────────────────────────────────────┘
-```
 
 ## `fortune`
 
