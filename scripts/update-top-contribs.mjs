@@ -43,12 +43,6 @@ function badgeUrl(label, message, color = "020617", logo = "github") {
   return `https://img.shields.io/badge/${encodedLabel}-${encodedMessage}-${color}?style=for-the-badge&logo=${logo}&logoColor=A6D96A&labelColor=020617`;
 }
 
-function badgeUrlWithLogo(label, message, logoUrl, color = "020617") {
-  const encodedLabel = encodeURIComponent(label).replaceAll("-", "--");
-  const encodedMessage = encodeURIComponent(message).replaceAll("-", "--");
-  return `https://img.shields.io/badge/${encodedLabel}-${encodedMessage}-${color}?style=for-the-badge&logo=${encodeURIComponent(logoUrl)}&labelColor=020617`;
-}
-
 async function readIconOverrides() {
   try {
     return JSON.parse(await readFile("scripts/repo-icons.json", "utf8"));
@@ -71,9 +65,7 @@ function repoBadge(repo, iconOverrides) {
 
   const lines = [
     `<p align="center">`,
-    `  <a href="${repo.url}">`,
-    `    <img src="${badgeUrlWithLogo(repo.name, "repo", icon)}" alt="${repo.name}" />`,
-    `  </a>`,
+    `  <a href="${repo.url}"><kbd><img src="${icon}" width="16" height="16" alt="${repo.name} icon" /> @${repo.name}</kbd></a>`,
     `  <img src="${badgeUrl("contribution", contribution, "7DD3FC", "git")}" alt="${repo.name} contribution" />`,
     `</p>`,
   ];

@@ -33,12 +33,6 @@ function badgeUrl(label, message, color = "020617", logo = "github") {
   return `https://img.shields.io/badge/${encodedLabel}-${encodedMessage}-${color}?style=for-the-badge&logo=${logo}&logoColor=A6D96A&labelColor=020617`;
 }
 
-function badgeUrlWithLogo(label, message, logoUrl, color = "020617") {
-  const encodedLabel = encodeURIComponent(label).replaceAll("-", "--");
-  const encodedMessage = encodeURIComponent(message).replaceAll("-", "--");
-  return `https://img.shields.io/badge/${encodedLabel}-${encodedMessage}-${color}?style=for-the-badge&logo=${encodeURIComponent(logoUrl)}&labelColor=020617`;
-}
-
 async function readIconOverrides() {
   try {
     return JSON.parse(await readFile("scripts/repo-icons.json", "utf8"));
@@ -51,11 +45,7 @@ function dynamicBadge(kind, owner, repo) {
   const path = `${owner}/${repo}`;
   const encodedPath = encodeURIComponent(path);
 
-  if (kind === "stars") {
-    return `https://img.shields.io/github/stars/${encodedPath}?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617`;
-  }
-
-  return `https://img.shields.io/github/languages/top/${encodedPath}?style=for-the-badge&label=language&color=1793D1&labelColor=020617`;
+  return `https://img.shields.io/github/stars/${encodedPath}?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617`;
 }
 
 async function repoDetails(owner, repo) {
@@ -132,9 +122,7 @@ async function buildBadge(repoRef, iconOverrides) {
   const icon = iconOverrides[fullName] || details?.owner?.avatar_url || `https://github.com/${owner}.png?size=48`;
   const lines = [
     `<p align="center">`,
-    `  <a href="${url}">`,
-    `    <img src="${badgeUrlWithLogo(fullName, "repo", icon)}" alt="${fullName}" />`,
-    `  </a>`,
+    `  <a href="${url}"><kbd><img src="${icon}" width="16" height="16" alt="${fullName} icon" /> @${fullName}</kbd></a>`,
   ];
 
   if (stars >= starThreshold) {
