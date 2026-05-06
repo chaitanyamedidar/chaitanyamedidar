@@ -4,6 +4,7 @@ const username = process.env.GITHUB_USERNAME || "chaitanyamedidar";
 const token = process.env.GITHUB_TOKEN;
 const readmePath = process.env.README_PATH || "README.md";
 const limit = Number(process.env.TOP_CONTRIB_LIMIT || 8);
+const starThreshold = Number(process.env.TOP_CONTRIB_STAR_THRESHOLD || 10000);
 const includeOwnRepos = process.env.INCLUDE_OWN_REPOS === "true";
 
 if (!token) {
@@ -42,19 +43,41 @@ function badgeUrl(label, message, color = "020617", logo = "github") {
   return `https://img.shields.io/badge/${encodedLabel}-${encodedMessage}-${color}?style=for-the-badge&logo=${logo}&logoColor=A6D96A&labelColor=020617`;
 }
 
-function repoBadge(repo) {
-  const contribution = repo.prCount === 1 ? "1 merged PR" : `${repo.prCount} merged PRs`;
+async function readIconOverrides() {
+  try {
+    return JSON.parse(await readFile("scripts/repo-icons.json", "utf8"));
+  } catch {
+    return {};
+  }
+}
 
-  return [
+function repoIcon(repo, iconOverrides) {
+  return iconOverrides[repo.name] || repo.ownerAvatar || `https://github.com/${repo.name.split("/")[0]}.png?size=48`;
+}
+
+function repoBadge(repo, iconOverrides) {
+  const contribution = repo.prCount === 1 ? "1 merged PR" : `${repo.prCount} merged PRs`;
+  const starBadge =
+    repo.stars >= starThreshold
+      ? `  <img src="${badgeUrl("stars", formatStars(repo.stars), "A6D96A")}" alt="${repo.name} stars" />`
+      : null;
+
+  const lines = [
     `<p align="center">`,
+    `  <img src="${repoIcon(repo, iconOverrides)}" width="28" height="28" alt="${repo.name} icon" />`,
     `  <a href="${repo.url}">`,
     `    <img src="${badgeUrl(repo.name, "repo")}" alt="${repo.name}" />`,
     `  </a>`,
-    `  <img src="${badgeUrl("stars", formatStars(repo.stars), "A6D96A")}" alt="${repo.name} stars" />`,
     `  <img src="${badgeUrl("language", repo.language || "-", "1793D1")}" alt="${repo.name} language" />`,
     `  <img src="${badgeUrl("contribution", contribution, "7DD3FC", "git")}" alt="${repo.name} contribution" />`,
     `</p>`,
-  ].join("\n");
+  ];
+
+  if (starBadge) {
+    lines.splice(5, 0, starBadge);
+  }
+
+  return lines.join("\n");
 }
 
 async function fetchMergedPrs() {
@@ -65,6 +88,7 @@ async function fetchMergedPrs() {
 }
 
 async function main() {
+  const iconOverrides = await readIconOverrides();
   const prs = await fetchMergedPrs();
   const repos = new Map();
 
@@ -89,6 +113,7 @@ async function main() {
       url: repo.html_url,
       stars: repo.stargazers_count ?? 0,
       language: repo.language || "-",
+      ownerAvatar: repo.owner?.avatar_url,
       prCount: 1,
     });
   }
@@ -96,7 +121,7 @@ async function main() {
   const badges = [...repos.values()]
     .sort((a, b) => b.stars - a.stars)
     .slice(0, limit)
-    .map(repoBadge);
+    .map((repo) => repoBadge(repo, iconOverrides));
 
   const generated =
     badges.length > 0

@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%20and%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
 </p>
@@ -121,11 +120,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/contributions-auto--updates_after_workflow_runs-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="Contribution badges auto-update after workflow runs" />
-</p>
-<!-- TOP-STARRED-CONTRIBS:END -->
-
-<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" width="28" height="28" alt="microsoft/vscode icon" />
   <a href="https://github.com/microsoft/vscode">
     <img src="https://img.shields.io/badge/microsoft%2Fvscode-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode" />
   </a>
@@ -133,7 +128,9 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <img src="https://img.shields.io/github/languages/top/microsoft%2Fvscode?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="microsoft/vscode top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
 </p>
+
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/3320903?v=4" width="28" height="28" alt="ankidroid/anki-android icon" />
   <a href="https://github.com/ankidroid/anki-android">
     <img src="https://img.shields.io/badge/ankidroid%2Fanki--android-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android" />
   </a>
@@ -141,14 +138,16 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <img src="https://img.shields.io/github/languages/top/ankidroid%2Fanki-android?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="ankidroid/anki-android top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android contribution" />
 </p>
+
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/179146999?v=4" width="28" height="28" alt="hiero-ledger/hiero-sdk-cpp icon" />
   <a href="https://github.com/hiero-ledger/hiero-sdk-cpp">
     <img src="https://img.shields.io/badge/hiero--ledger%2Fhiero--sdk--cpp-repo-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp" />
   </a>
-  <img src="https://img.shields.io/github/stars/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp stars" />
   <img src="https://img.shields.io/github/languages/top/hiero-ledger%2Fhiero-sdk-cpp?style=for-the-badge&label=language&color=1793D1&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp top language" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
 </p>
+<!-- TOP-STARRED-CONTRIBS:END -->
 
 ## `ls ~/open-source`
 
@@ -201,4 +200,3 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 <p align="center">
   <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
 </p>
-
