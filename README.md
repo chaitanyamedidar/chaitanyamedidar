@@ -132,8 +132,18 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 
 <p align="center">
+  <a href="https://github.com/falling-fruit/falling-fruit-web"><kbd><img src="https://avatars.githubusercontent.com/u/18725469?v=4" width="16" height="16" alt="falling-fruit/falling-fruit-web icon" /> @falling-fruit/falling-fruit-web</kbd></a>
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="falling-fruit/falling-fruit-web contribution" />
+</p>
+
+<p align="center">
   <a href="https://github.com/hiero-ledger/hiero-sdk-cpp"><kbd><img src="https://avatars.githubusercontent.com/u/179146999?v=4" width="16" height="16" alt="hiero-ledger/hiero-sdk-cpp icon" /> @hiero-ledger/hiero-sdk-cpp</kbd></a>
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/metal3-io/project-infra"><kbd><img src="https://avatars.githubusercontent.com/u/49879880?v=4" width="16" height="16" alt="metal3-io/project-infra icon" /> @metal3-io/project-infra</kbd></a>
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="metal3-io/project-infra contribution" />
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
 
