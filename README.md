@@ -56,7 +56,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 - I like turning rough ideas into things people can actually try
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
+  <img src="zone.gif" width="360" alt="Coding animation" />
 </p>
 
 
