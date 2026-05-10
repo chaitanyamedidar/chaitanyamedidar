@@ -49,11 +49,6 @@ Package manager: curiosity
 
 Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, CI/CD Pipelines, Automations, Python, JavaScript, Design, ML systems, and Product-Ready AI demos**.
 
-- Currently working on **Adaptive Selective Training of vLLM**
-- Exploring **fine-tuning, evaluation, and applied AI systems**
-- Inspired by **Omarchy**: clean, sharp, keyboard-first energy
-- I like turning rough ideas into things people can actually try
-
 <p align="center">
   <img src="zone.gif" width="360" alt="Coding animation" />
 </p>
@@ -64,10 +59,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 ## `pacman -Syu skillset`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,nodejs,express,fastapi,react,nextjs,vite,tailwind,bootstrap,flutter,firebase,supabase,mongodb,mysql,sqlite,gcp,azure,vercel,netlify,kubernetes,git,github,npm,notion,ps" alt="Tech stack icons" />
-</p>
-
 <details open>
   <summary><b>Core Stack</b></summary>
   <br />
@@ -76,10 +67,26 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=1793D1)
   ![Pandas](https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=1793D1)
   ![NumPy](https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=1793D1)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=1793D1)
   ![Flutter](https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=1793D1)
   ![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=1793D1)
-  ![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=1793D1)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+  ![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=1793D1)
+  ![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
+
+</details>
+
+<details open>
+  <summary><b>Linux, CI/CD, Testing</b></summary>
+  <br />
+  
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-020617?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+  ![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
+  ![YAML](https://img.shields.io/badge/YAML-020617?style=for-the-badge&logo=yaml&logoColor=CB171E)
+  ![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624)
+  ![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED)
+  ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) 
 </details>
 
 <details>
@@ -91,7 +98,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=1793D1)
   ![Supabase](https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=1793D1)
   ![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=1793D1)
-  ![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=1793D1)
   ![SQLite](https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=1793D1)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=1793D1)
   ![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=1793D1)
@@ -102,7 +108,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
+  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
   <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
 </p>
@@ -165,14 +171,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <a href="https://github.com/chaitanyamedidar?tab=stars">
     <img src="https://img.shields.io/badge/STARS-020617?style=for-the-badge&logo=github&logoColor=1793D1" alt="Starred repositories" />
   </a>
-</p>
-
-
-
-## `fortune`
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
 
 ## `mpv ~/lofi-dev-session.gif`
