@@ -18,7 +18,7 @@
   <a href="mailto:chaitanyapro19@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=1793D1" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=chaitanyamedidar&label=profile%20views&color=1793d1&style=for-the-badge" alt="Profile views" />
+
 </p>
 
 <br />
