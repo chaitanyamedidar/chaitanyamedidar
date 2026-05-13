@@ -57,6 +57,66 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   </tr>
 </table>
 
+## `chaitanya-search`
+
+```bash
+$ ./chaitanya-search.sh --help
+
+Usage:
+  ./chaitanya-search.sh <command>
+
+Commands:
+  about          Show a short profile summary
+  top-contribs   Show top open-source contribution repos
+  hackathons     Show hackathon / demo projects
+  ml-projects    Show ML systems projects
+  stack          Show core stack
+  contact        Show links
+  all            Show everything
+```
+
+<details>
+  <summary><code>$ ./chaitanya-search.sh top-contribs</code></summary>
+  <br />
+
+```bash
+chaitanya-search :: top starred contributions
+
+@microsoft/vscode
+@ankidroid/anki-android
+@falling-fruit/falling-fruit-web
+@hiero-ledger/hiero-sdk-cpp
+@metal3-io/project-infra
+```
+</details>
+
+<details>
+  <summary><code>$ ./chaitanya-search.sh hackathons</code></summary>
+  <br />
+
+```bash
+chaitanya-search :: hackathon projects
+
+Hackathon Winning Project
+  Type: Product-ready hackathon build
+  Stack: Flutter, FastAPI, React, Cloud
+  Note: update data/profile.json with the exact project name, prize, and demo link.
+```
+</details>
+
+<details>
+  <summary><code>$ ./chaitanya-search.sh ml-projects</code></summary>
+  <br />
+
+```bash
+chaitanya-search :: ml systems projects
+
+Adaptive Selective Training of vLLM
+  Type: ML systems research
+  Stack: vLLM, PyTorch, FastAPI, Python
+```
+</details>
+
 ## `pacman -Syu skillset`
 
 <details open>
@@ -108,7 +168,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-<a href="https://github.com/microsoft/vscode"><kbd><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
+  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
   <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
 </p>
@@ -117,6 +177,12 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <a href="https://github.com/ankidroid/anki-android"><kbd><img src="https://avatars.githubusercontent.com/u/3320903?v=4" width="16" height="16" alt="ankidroid/anki-android icon" /> @ankidroid/anki-android</kbd></a>
   <img src="https://img.shields.io/github/stars/ankidroid%2Fanki-android?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="ankidroid/anki-android stars" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android contribution" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/meshery/meshery"><kbd><img src="https://avatars.githubusercontent.com/u/52376019?v=4" width="16" height="16" alt="meshery/meshery icon" /> @meshery/meshery</kbd></a>
+  <img src="https://img.shields.io/github/stars/meshery%2Fmeshery?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="meshery/meshery stars" />
+  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="meshery/meshery contribution" />
 </p>
 
 <p align="center">

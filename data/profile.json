@@ -1,0 +1,56 @@
+{
+  "name": "Chaitanya Medidar",
+  "handle": "chaitanyamedidar",
+  "focus": "Adaptive Selective Training of vLLM",
+  "about": "Full-stack developer focused on web development, CI/CD pipelines, automations, Python, JavaScript, design, ML systems, and product-ready AI demos.",
+  "topContributions": [
+    {
+      "repo": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "note": "High-star open-source contribution"
+    },
+    {
+      "repo": "ankidroid/anki-android",
+      "url": "https://github.com/ankidroid/anki-android",
+      "note": "Android open-source contribution"
+    },
+    {
+      "repo": "falling-fruit/falling-fruit-web",
+      "url": "https://github.com/falling-fruit/falling-fruit-web",
+      "note": "Web open-source contribution"
+    },
+    {
+      "repo": "hiero-ledger/hiero-sdk-cpp",
+      "url": "https://github.com/hiero-ledger/hiero-sdk-cpp",
+      "note": "C++ SDK open-source contribution"
+    },
+    {
+      "repo": "metal3-io/project-infra",
+      "url": "https://github.com/metal3-io/project-infra",
+      "note": "Infrastructure open-source contribution"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Adaptive Selective Training of vLLM",
+      "type": "ML systems research",
+      "stack": ["vLLM", "PyTorch", "FastAPI", "Python"],
+      "summary": "Research and experimentation around efficient adaptive training workflows for large language model systems."
+    },
+    {
+      "name": "Hackathon Winning Project",
+      "type": "Hackathon / demo project",
+      "stack": ["Flutter", "FastAPI", "React", "Cloud"],
+      "summary": "A product-ready hackathon build. Update this entry with the exact project name, prize, and demo link."
+    }
+  ],
+  "commands": [
+    "about",
+    "top-contribs",
+    "hackathons",
+    "ml-projects",
+    "stack",
+    "contact",
+    "all"
+  ]
+}
