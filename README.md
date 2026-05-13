@@ -108,7 +108,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
+  <a href="[https://github.com/microsoft/vscode](https://github.com/chaitanyamedidar?tab=overview&from=2025-12-01&to=2025-12-31)"><kbd><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
   <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
   <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
 </p>
