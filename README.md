@@ -57,6 +57,32 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   </tr>
 </table>
 
+## `~/hackathon-wins`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Winning Build #1</h3>
+      <p><b>Track:</b> AI / Full-stack product</p>
+      <p><b>Built with:</b> Flutter, FastAPI, React, Cloud</p>
+      <p><b>Highlight:</b> Took a rough problem statement from idea to working demo with a product-ready flow, clean UI, and deployable backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="Hackathon winner" />
+        <img src="https://img.shields.io/badge/DEMO-READY-1793D1?style=for-the-badge&labelColor=020617" alt="Demo ready" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Winning Build #2</h3>
+      <p><b>Track:</b> ML systems / developer tooling</p>
+      <p><b>Built with:</b> Python, PyTorch, FastAPI, GitHub Actions</p>
+      <p><b>Highlight:</b> Focused on practical AI infrastructure, automation, and reviewer-friendly demos that explain the idea quickly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="Hackathon winner" />
+        <img src="https://img.shields.io/badge/AI-SYSTEMS-7DD3FC?style=for-the-badge&labelColor=020617" alt="AI systems" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## `pacman -Syu skillset`
 
@@ -87,6 +113,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![YAML](https://img.shields.io/badge/YAML-020617?style=for-the-badge&logo=yaml&logoColor=CB171E)
   ![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624)
   ![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED)
+  ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) 
 </details>
 
 <details>
@@ -102,83 +129,44 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=1793D1)
   ![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=1793D1)
   ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
-  ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) 
 </details>
 
 ## `pacman -Qi top-starred-contribs`
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
-  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
+  <a href="https://github.com/microsoft/vscode"><kbd><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="16" height="16" alt="microsoft/vscode icon" /> @microsoft/vscode</kbd></a>
   <img src="https://img.shields.io/github/stars/microsoft%2Fvscode?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="microsoft/vscode stars" />
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="microsoft/vscode contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="microsoft/vscode contributed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ankidroid/anki-android"><kbd><img src="https://avatars.githubusercontent.com/u/3320903?v=4" width="16" height="16" alt="ankidroid/anki-android icon" /> @ankidroid/anki-android</kbd></a>
   <img src="https://img.shields.io/github/stars/ankidroid%2Fanki-android?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="ankidroid/anki-android stars" />
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="ankidroid/anki-android contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="ankidroid/anki-android contributed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/meshery/meshery"><kbd><img src="https://avatars.githubusercontent.com/u/52376019?v=4" width="16" height="16" alt="meshery/meshery icon" /> @meshery/meshery</kbd></a>
   <img src="https://img.shields.io/github/stars/meshery%2Fmeshery?style=for-the-badge&logo=github&label=stars&color=A6D96A&labelColor=020617" alt="meshery/meshery stars" />
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="meshery/meshery contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="meshery/meshery contributed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/falling-fruit/falling-fruit-web"><kbd><img src="https://avatars.githubusercontent.com/u/18725469?v=4" width="16" height="16" alt="falling-fruit/falling-fruit-web icon" /> @falling-fruit/falling-fruit-web</kbd></a>
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="falling-fruit/falling-fruit-web contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="falling-fruit/falling-fruit-web contributed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hiero-ledger/hiero-sdk-cpp"><kbd><img src="https://avatars.githubusercontent.com/u/179146999?v=4" width="16" height="16" alt="hiero-ledger/hiero-sdk-cpp icon" /> @hiero-ledger/hiero-sdk-cpp</kbd></a>
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="hiero-ledger/hiero-sdk-cpp contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="hiero-ledger/hiero-sdk-cpp contributed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/metal3-io/project-infra"><kbd><img src="https://avatars.githubusercontent.com/u/49879880?v=4" width="16" height="16" alt="metal3-io/project-infra icon" /> @metal3-io/project-infra</kbd></a>
-  <img src="https://img.shields.io/badge/contribution-contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=A6D96A&labelColor=020617" alt="metal3-io/project-infra contribution" />
+  <img src="https://img.shields.io/badge/contributed-7DD3FC?style=for-the-badge&logo=git&logoColor=020617&labelColor=7DD3FC" alt="metal3-io/project-infra contributed" />
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
-
-## `ls ~/open-source`
-
-<p align="center">
-  <img src="assets/pixel-windmill.gif" width="100%" alt="Pixel windmill landscape" />
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>ML / Research Systems</h3>
-      <p>Experiments around adaptive training, evaluation, and practical model workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=1793D1" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=1793D1" alt="Python" />
-        <img src="https://img.shields.io/badge/vLLM-020617?style=flat-square&logo=python&logoColor=1793D1" alt="vLLM" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Full-stack Products</h3>
-      <p>FastAPI backends, Flutter apps, React dashboards, and cloud-ready demos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=1793D1" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Flutter-020617?style=flat-square&logo=flutter&logoColor=1793D1" alt="Flutter" />
-        <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=1793D1" alt="React" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/chaitanyamedidar?tab=repositories">
-    <img src="https://img.shields.io/badge/ALL_REPOS-1793D1?style=for-the-badge&logo=github&logoColor=020617" alt="All repositories" />
-  </a>
-  <a href="https://github.com/chaitanyamedidar?tab=stars">
-    <img src="https://img.shields.io/badge/STARS-020617?style=for-the-badge&logo=github&logoColor=1793D1" alt="Starred repositories" />
-  </a>
-</p>
 
 ## `mpv ~/lofi-dev-session.gif`
 
