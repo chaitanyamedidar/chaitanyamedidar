@@ -146,7 +146,6 @@ Adaptive Selective Training of vLLM
   ![YAML](https://img.shields.io/badge/YAML-020617?style=for-the-badge&logo=yaml&logoColor=CB171E)
   ![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624)
   ![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED)
-  ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) 
 </details>
 
 <details>
@@ -162,6 +161,7 @@ Adaptive Selective Training of vLLM
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-020617?style=for-the-badge&logo=kubernetes&logoColor=1793D1)
   ![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=1793D1)
   ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
+  ![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) 
 </details>
 
 ## `pacman -Qi top-starred-contribs`
