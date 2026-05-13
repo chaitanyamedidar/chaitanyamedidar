@@ -62,23 +62,26 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Winning Build #1</h3>
-      <p><b>Track:</b> AI / Full-stack product</p>
-      <p><b>Built with:</b> Flutter, FastAPI, React, Cloud</p>
-      <p><b>Highlight:</b> Took a rough problem statement from idea to working demo with a product-ready flow, clean UI, and deployable backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="Hackathon winner" />
-        <img src="https://img.shields.io/badge/DEMO-READY-1793D1?style=for-the-badge&labelColor=020617" alt="Demo ready" />
-      </p>
+      <h3>Navisense</h3>
+      <p> Hack4Innovation 2026</p>
+      <p><b>Highlight:</b> Assistive navigation system with real-time hazard detection, voice guidance, scene understanding, community hazard reporting, and ESP32/Bluetooth integration for for Visually Impaired Individuals.</p>
+        <p>
+           <a href="https://github.com/Hack4Innovation-2026/SayKnowMore-Hack4Innovation-26">
+          <img src="https://img.shields.io/badge/REPO-NAVISENSE-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="Navisense repository" />
+        </a>
+        <img src="https://img.shields.io/badge/NATIONAL_HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="National hackathon winner" />
+        <img src="https://img.shields.io/badge/ACCESSIBILITY-AI-7DD3FC?style=for-the-badge&labelColor=020617" alt="Accessibility AI" />
     </td>
     <td width="50%" valign="top">
-      <h3>Winning Build #2</h3>
-      <p><b>Track:</b> ML systems / developer tooling</p>
-      <p><b>Built with:</b> Python, PyTorch, FastAPI, GitHub Actions</p>
-      <p><b>Highlight:</b> Focused on practical AI infrastructure, automation, and reviewer-friendly demos that explain the idea quickly.</p>
+       <h3>Safe Labs</h3>
+      <p> Autonomous lab safety system</p>
+      <p><b>Highlight:</b> Multi-lab IoT monitoring platform for live temperature, humidity, gas, motion, automation, alerts, security logs, and admin dashboards.</p>
       <p>
-        <img src="https://img.shields.io/badge/HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="Hackathon winner" />
-        <img src="https://img.shields.io/badge/AI-SYSTEMS-7DD3FC?style=for-the-badge&labelColor=020617" alt="AI systems" />
+        <a href="https://github.com/chaitanyamedidar/SayKnowMore">
+          <img src="https://img.shields.io/badge/REPO-SAFE_LABS-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="Safe Labs repository" />
+        </a>
+        <img src="https://img.shields.io/badge/NATIONAL_HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="National hackathon winner" />
+        <img src="https://img.shields.io/badge/IOT-SAFETY-7DD3FC?style=for-the-badge&labelColor=020617" alt="IoT safety" />
       </p>
     </td>
   </tr>
