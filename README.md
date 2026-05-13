@@ -57,65 +57,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   </tr>
 </table>
 
-## `chaitanya-search`
-
-```bash
-$ ./chaitanya-search.sh --help
-
-Usage:
-  ./chaitanya-search.sh <command>
-
-Commands:
-  about          Show a short profile summary
-  top-contribs   Show top open-source contribution repos
-  hackathons     Show hackathon / demo projects
-  ml-projects    Show ML systems projects
-  stack          Show core stack
-  contact        Show links
-  all            Show everything
-```
-
-<details>
-  <summary><code>$ ./chaitanya-search.sh top-contribs</code></summary>
-  <br />
-
-```bash
-chaitanya-search :: top starred contributions
-
-@microsoft/vscode
-@ankidroid/anki-android
-@falling-fruit/falling-fruit-web
-@hiero-ledger/hiero-sdk-cpp
-@metal3-io/project-infra
-```
-</details>
-
-<details>
-  <summary><code>$ ./chaitanya-search.sh hackathons</code></summary>
-  <br />
-
-```bash
-chaitanya-search :: hackathon projects
-
-Hackathon Winning Project
-  Type: Product-ready hackathon build
-  Stack: Flutter, FastAPI, React, Cloud
-  Note: update data/profile.json with the exact project name, prize, and demo link.
-```
-</details>
-
-<details>
-  <summary><code>$ ./chaitanya-search.sh ml-projects</code></summary>
-  <br />
-
-```bash
-chaitanya-search :: ml systems projects
-
-Adaptive Selective Training of vLLM
-  Type: ML systems research
-  Stack: vLLM, PyTorch, FastAPI, Python
-```
-</details>
 
 ## `pacman -Syu skillset`
 
