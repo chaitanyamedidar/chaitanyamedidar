@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="60%" valign="top">
 
 ```bash
  ██████╗ ███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗██╗   ██╗
@@ -44,6 +44,13 @@ Shell: Flutter, React, Next.js
 Cloud: GCP, Azure, Firebase
 Package manager: curiosity
 ```
+  </td>
+    <td width="40%" valign="middle">
+      <img src="assets/omarchy-side.gif" width="100%" alt="Omarchy side animation" />
+    </td>
+  </tr>
+</table>
+
 
 ### `/home/chaitanya/whoami`
 
@@ -54,8 +61,6 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 
 
-  </tr>
-</table>
 
 ## `~/hackathon-wins`
 
@@ -134,7 +139,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
 </details>
 
-## `pacman -Qi top-starred-contribs`
+## `pacman -Qi top-contribs`
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
@@ -171,8 +176,8 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
 
-## `mpv ~/lofi-dev-session.gif`
+## `~/memes-i-relate-to`
 
 <p align="center">
-  <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
+  <img src="assets/dev-meme-carousel.svg" width="100%" alt="Sliding developer meme carousel" />
 </p>
