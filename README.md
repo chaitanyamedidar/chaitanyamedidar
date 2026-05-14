@@ -44,23 +44,17 @@ Shell: Flutter, React, Next.js
 Cloud: GCP, Azure, Firebase
 Package manager: curiosity
 ```
-  </td>
-    <td width="40%" valign="middle">
-      <img src="assets/omarchy-side.gif" width="100%" alt="Omarchy side animation" />
-    </td>
-  </tr>
-</table>
-
 
 ### `/home/chaitanya/whoami`
 
 Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, CI/CD Pipelines, Automations, Python, JavaScript, Design, ML systems, and Product-Ready AI demos**.
 
-<p align="center">
-  <img src="zone.gif" width="360" alt="Coding animation" />
-</p>
-
-
+    </td>
+    <td width="40%" valign="middle">
+      <img src="assets/omarchy-side.gif" width="100%" alt="Omarchy side animation" />
+    </td>
+  </tr>
+</table>
 
 ## `~/hackathon-wins`
 
@@ -68,18 +62,21 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   <tr>
     <td width="50%" valign="top">
       <h3>Navisense</h3>
-      <p> Hack4Innovation 2026</p>
-      <p><b>Highlight:</b> Assistive navigation system with real-time hazard detection, voice guidance, scene understanding, community hazard reporting, and ESP32/Bluetooth integration for for Visually Impaired Individuals.</p>
-        <p>
-           <a href="https://github.com/Hack4Innovation-2026/SayKnowMore-Hack4Innovation-26">
+      <p><b>National Hackathon Winner</b> · Hack4Innovation 2026</p>
+      <p><b>Built with:</b> Flutter, Firebase, TFLite/YOLO, Gemini, Maps, OCR, TTS, Bluetooth</p>
+      <p><b>Highlight:</b> Assistive navigation system with real-time hazard detection, voice guidance, scene understanding, community hazard reporting, and ESP32/Bluetooth integration.</p>
+      <p>
+        <a href="https://github.com/Hack4Innovation-2026/SayKnowMore-Hack4Innovation-26">
           <img src="https://img.shields.io/badge/REPO-NAVISENSE-020617?style=for-the-badge&logo=github&logoColor=A6D96A&labelColor=020617" alt="Navisense repository" />
         </a>
         <img src="https://img.shields.io/badge/NATIONAL_HACKATHON-WINNER-A6D96A?style=for-the-badge&labelColor=020617" alt="National hackathon winner" />
         <img src="https://img.shields.io/badge/ACCESSIBILITY-AI-7DD3FC?style=for-the-badge&labelColor=020617" alt="Accessibility AI" />
+      </p>
     </td>
     <td width="50%" valign="top">
-       <h3>Safe Labs</h3>
-      <p> Autonomous lab safety system</p>
+      <h3>Safe Labs</h3>
+      <p><b>National Hackathon Winner</b> · Autonomous lab safety system</p>
+      <p><b>Built with:</b> ESP32, Firebase, Node.js, Flutter, Streamlit, Wokwi</p>
       <p><b>Highlight:</b> Multi-lab IoT monitoring platform for live temperature, humidity, gas, motion, automation, alerts, security logs, and admin dashboards.</p>
       <p>
         <a href="https://github.com/chaitanyamedidar/SayKnowMore">
@@ -139,7 +136,7 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
   ![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=1793D1)
 </details>
 
-## `pacman -Qi top-contribs`
+## `pacman -Qi top-starred-contribs`
 
 <!-- TOP-STARRED-CONTRIBS:START -->
 <p align="center">
@@ -176,8 +173,14 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
 
+## `mpv ~/lofi-dev-session.gif`
+
+<p align="center">
+  <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
+</p>
+
 ## `~/memes-i-relate-to`
 
 <p align="center">
-  <img src="assets/dev-meme-carousel.svg" width="100%" alt="Sliding developer meme carousel" />
+  <img src="assets/dev-meme-carousel.gif" width="100%" alt="Sliding developer meme carousel" />
 </p>
