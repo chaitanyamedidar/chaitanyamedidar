@@ -182,5 +182,5 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 ## `~/memes-i-relate-to`
 
 <p align="center">
-  <img src="assets/dev-meme-carousel.gif" width="100%" alt="Sliding developer meme carousel" />
+  <img src="" width="100%" alt="Sliding developer meme carousel" />
 </p>
