@@ -44,17 +44,21 @@ Shell: Flutter, React, Next.js
 Cloud: GCP, Azure, Firebase
 Package manager: curiosity
 ```
-
-### `/home/chaitanya/whoami`
-
-Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, CI/CD Pipelines, Automations, Python, JavaScript, Design, ML systems, and Product-Ready AI demos**.
-
-    </td>
+  </td>
     <td width="40%" valign="middle">
       <img src="assets/omarchy-side.gif" width="100%" alt="Omarchy side animation" />
     </td>
   </tr>
 </table>
+
+### `/home/chaitanya/whoami`
+
+Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on **Web Development, CI/CD Pipelines, Automations, Python, JavaScript, Design, ML systems, and Product-Ready AI demos**.
+
+ <p align="center">
+  <img src="zone.gif" width="360" alt="Coding animation" />
+</p>
+
 
 ## `~/hackathon-wins`
 
@@ -173,14 +177,9 @@ Hi, I am **Chaitanya Medidar**, an enthusiastic full-stack developer focused on 
 </p>
 <!-- TOP-STARRED-CONTRIBS:END -->
 
-## `mpv ~/lofi-dev-session.gif`
+
+## `~/home`
 
 <p align="center">
-  <img src="assets/vinyl.gif" width="520" alt="Animated vinyl record" />
-</p>
-
-## `~/memes-i-relate-to`
-
-<p align="center">
-  <img src="" width="100%" alt="Sliding developer meme carousel" />
+  <img src="assets/dev-meme-carousel.gif" width="100%" alt="Sliding developer meme carousel" />
 </p>
