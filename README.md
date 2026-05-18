@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/chaitanyamedidar">
-    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=1793D1" alt="Instagram" />
-  </a>
+
   <a href="https://linkedin.com/in/chaitanya-medidar">
     <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=1793D1" alt="LinkedIn" />
   </a>
