@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=CHAITANYA%20MEDIDAR&fontColor=F8FAFC&fontSize=44&fontAlignY=42&desc=Adaptive%20Selective%20Training%20of%20vLLM%20%7C%20Full-stack%20%20and%20ML%20systems&descAlignY=78&descSize=15" alt="Chaitanya Medidar title" />
 </p>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A6D96A&center=true&vCenter=true&width=840&lines=btw%2C+I+use+Omarchy+energy;vLLM+,+PyTorch+,+FastAPI;Flutter+,+React+,+Cloud;CI/CD+Piplines+,+Testing;I+turn+research+ideas+into+working+demos" alt="Typing SVG" />
@@ -16,9 +17,8 @@
   <a href="mailto:chaitanyapro19@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=1793D1" alt="Email" />
   </a>
-
 </p>
-
+<p align="center">  <a href="https://cloud.layer5.io/user/384343cb-3d23-4ecc-ba66-a657a2cb0f73?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></p>
 <br />
 
 <table>
