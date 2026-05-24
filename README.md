@@ -18,7 +18,8 @@
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=1793D1" alt="Email" />
   </a>
 </p>
-<p align="center">  <a href="https://cloud.layer5.io/user/384343cb-3d23-4ecc-ba66-a657a2cb0f73?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></p>
+<p align="center">  <a href="https://cloud.layer5.io/user/384343cb-3d23-4ecc-ba66-a657a2cb0f73?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />
+  <a href="https://badges.layer5.io">Get your own badge</a></p>
 <br />
 
 <table>
